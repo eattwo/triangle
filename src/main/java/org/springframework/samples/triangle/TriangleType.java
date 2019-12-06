@@ -17,5 +17,7 @@ public class TriangleType {
 		if((s1 == s2) || (s2 == s3) || (s1 == s3))
 			return Triangle.ISOSCELES;
 		return Triangle.SCALENE;
+		
+		// RANDOM CHANGE
 	}
 }
